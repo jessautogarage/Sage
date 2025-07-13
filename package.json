@@ -1,0 +1,31 @@
+{
+  "name": "sage",
+  "version": "1.0.0",
+  "description": "Human Design WebApp",
+  "homepage": "https://github.com/jessautogarage/Sage#readme",
+  "bugs": {
+    "url": "https://github.com/jessautogarage/Sage/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessautogarage/Sage.git"
+  },
+  "license": "ISC",
+  "author": "Jesrel Agang",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+},
+  "keywords": [],
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "vite": "^7.0.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
